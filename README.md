@@ -1,4 +1,4 @@
-### Oi, me chamo Felipe, tudo bem? 👋
+### Olá, Felipe, espero que esteja bem! 👋
 
 - 👍 **HTML5** <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 - 👍 **CSS3** <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
